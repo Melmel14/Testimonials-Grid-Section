@@ -1,6 +1,6 @@
 # Advice generator app solution
 
-This is a solution to the [Advice generator app challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/advice-generator-app-QdUG-13db).
+This is a solution to the [Testimonials grid section](https://www.frontendmentor.io/challenges/testimonials-grid-section-Nnw6J7Un7).
 
 ## Table of contents
 
@@ -14,24 +14,23 @@ This is a solution to the [Advice generator app challenge on Frontend Mentor](ht
   - [Continued development](#continued-development)
   - [Useful resources](#useful-resources)
 - [Author](#author)
-- [Acknowledgments](#acknowledgments)
+
 
 
 ## Overview
 
 ### The challenge
 
-The  challenge is to build out this advice generator app using the Advice Slip API and get it looking as close to the design as possible. 
+This challenge will be perfect practice for anyone wanting to test their CSS Grid skills. Grid is such a powerful addition to CSS, so it's worth getting to grips with it! 
+The main challenge is to build out this testimonials grid section and get it looking as close to the design as possible. 
 
 Users should be able to:
-
-- View the optimal layout for the app depending on their device's screen size
-- See hover states for all interactive elements on the page
-- Generate a new piece of advice by clicking the dice icon
+1. View the optimal layout depending on their device's screen size
 
 ### Screenshot
 
-![mockup ipad](https://user-images.githubusercontent.com/78325685/172377557-62ada110-1fd9-4271-ac4a-19dae9d5ab1f.png)
+
+![main 2](https://user-images.githubusercontent.com/78325685/172584872-b9ee9d39-4924-4137-8f9a-a2d18924f63e.jpg)
 
 
 ### Links
@@ -43,28 +42,27 @@ Users should be able to:
 
 ### Built with
 
-- Semantic HTML5 markup
-- CSS custom properties
-- Flexbox
-- CSS Grid
-- Mobile-first workflow
-- JS
+Semantic HTML5 markup
+CSS custom properties
+Flex
+Grid
+Desktop-first workflow
 
 
 ### What I learned
 
-I practiced my Frontend skills by adding the code to this challenge and the JS functions to make this work with the API advice generator, it was a bit challenging on getting the right formula in JS and after web search I managed to get it right and connected. 
+I practiced my CSS grid skills and played with different color palletes to find a neutral but professional layout. 
 
 
 
 ### Continued development
 
-Another challenge I faced was that one of my Chrome extensions was blocking the JS functions and it wasn't generating any advises, I managed to find the root cause and disable the extension. I think that this challenge was within my knowledge scope and besides this, no other challenges were found. 
+I didn't have any challenges on this assignment.
 
 
 ### Useful resources
 
-- [Youtube video](https://www.youtube.com/watch?v=9Wo_rj2dhkw) - This helped me to corroborate my JS code but eventually I noticed that was the extension causing the error.
+- [Font Awesome](https://fontawesome.com/) - I used their quotation mark as the one that came with the challenge I didn't like.
 - [Mockup website](https://www.ls.graphics/free-mockups) - I used the mockup from here, make sure you have adobe Photoshop or Adobe XD as is required to edit the mockup.
 
 
@@ -74,9 +72,5 @@ Another challenge I faced was that one of my Chrome extensions was blocking the 
 - LinkedIn - [Melody Hall](https://www.linkedin.com/in/melody-hall)
 - Youtube - [Yay It's Melody](https://www.youtube.com/channel/UCYekyhEz40BCwegxKtnaSBw)
 
-
-
-## Acknowledgments
-I would say the youtuber tsbsankara as I was able to compare my JS code with him to make sure it was correct. 
 
 
