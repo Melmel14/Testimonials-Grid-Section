@@ -1,4 +1,4 @@
-# Advice generator app solution
+# Testimonial Grid Section solution
 
 This is a solution to the [Testimonials grid section](https://www.frontendmentor.io/challenges/testimonials-grid-section-Nnw6J7Un7).
 
@@ -35,8 +35,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Solution website](https://www.frontendmentor.io/solutions/advice-generator-QMgOzuY8Em)
-- Live Site URL: [Live site](https://statuesque-duckanoo-f3d343.netlify.app/)
+- Solution URL: [Solution website](https://www.frontendmentor.io/challenges/testimonials-grid-section-Nnw6J7Un7/hub/testimonials-grid-section-7L4fQajaIN)
+- Live Site URL: [Live site](https://main--fascinating-naiad-17fb17.netlify.app/)
 
 ## My process
 
